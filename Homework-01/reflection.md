@@ -1,0 +1,1 @@
+I found this assignment to be fairly reasonable and straightforward. I would have to say that the hardest part for me was pushing and pulling the files. I feel like I understand JupyterLab pretty well, but could get to know Git better.
